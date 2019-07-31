@@ -1,0 +1,14 @@
+{
+    "name": "Crew",
+    "alias": "crew",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Crew\\Providers\\CrewServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
